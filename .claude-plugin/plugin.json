@@ -1,0 +1,9 @@
+{
+  "name": "mabido-ai-visibility",
+  "version": "1.0.0",
+  "description": "Checks, in a few minutes and without leaving Claude, whether a small business website is easy for AI assistants (ChatGPT, Gemini, Perplexity) to understand: structured data, FAQ, llms.txt, sitemap, robots rules, fresh content. Returns a pass/fail checklist and the five fixes that matter most.",
+  "author": { "name": "MABIDO", "url": "https://mabido.com" },
+  "homepage": "https://mabido.com/visibility-audit?utm_source=claude_plugin&utm_medium=plugin&utm_campaign=ai_visibility_check",
+  "license": "MIT",
+  "keywords": ["seo", "ai-visibility", "local-business", "aeo", "structured-data", "small-business"]
+}
