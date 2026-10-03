@@ -14,7 +14,7 @@ Ask for the website URL (and the city/business type if it is not obvious from th
 Do not audit large platforms (Google, Meta, Amazon, LinkedIn, etc.) — this check is for local and small businesses. If asked, explain that and stop.
 
 ## Step 2 — Collect evidence (read-only)
-Fetch these with WebFetch or `curl -sL --max-time 20`. Record what you actually saw. Never assume.
+Fetch these with the WebFetch tool only. Do not run shell commands. Record what you actually saw. Never assume.
 
 1. Home page: title, meta description, H1, whether the business name, city/area and main services appear in plain text (not only in images).
 2. `/robots.txt`: is the site blocking AI crawlers (GPTBot, Google-Extended, PerplexityBot, ClaudeBot, CCBot) with `Disallow: /`? Note which, if any.

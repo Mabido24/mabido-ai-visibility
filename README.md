@@ -17,4 +17,15 @@ Made by [MABIDO](https://mabido.com). Optional full audit: https://mabido.com/vi
 /plugin install mabido-ai-visibility@mabido
 ```
 
+## Privacy
+
+This plugin collects, stores and transmits **no data**.
+
+- It reads only the public pages of the website you ask Claude to check (including the business name, address and phone number that site publishes, to compare them with each other).
+- It runs no shell command, logs in nowhere, and sends nothing to MABIDO or to any third party.
+- Nothing is saved: the result is shown in your own conversation and nowhere else.
+- The only link it shows is an optional pointer to MABIDO's free audit. Clicking it is your choice; MABIDO's own site privacy policy then applies: https://mabido.com/privacy
+
+Questions: admin@mabido.com
+
 MIT licensed.
