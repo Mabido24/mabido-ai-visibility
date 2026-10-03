@@ -17,5 +17,9 @@
     "structured-data",
     "small-business"
   ],
-  "repository": "https://github.com/Mabido24/mabido-ai-visibility"
+  "repository": "https://github.com/Mabido24/mabido-ai-visibility",
+  "privacyPolicyUrl": "https://mabido.com/privacy",
+  "termsOfServiceUrl": "https://mabido.com/terms",
+  "supportUrl": "https://mabido.com/contact",
+  "documentationUrl": "https://github.com/Mabido24/mabido-ai-visibility#readme"
 }
